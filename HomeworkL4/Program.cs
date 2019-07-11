@@ -2,9 +2,9 @@
 
 namespace HomeworkL4
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //zad1
             int.TryParse(Console.ReadLine(), out int n);
