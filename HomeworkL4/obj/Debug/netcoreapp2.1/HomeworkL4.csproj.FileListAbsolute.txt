@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\bin\Debug\netcoreapp2.1\HomeworkL4.deps.json
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\bin\Debug\netcoreapp2.1\HomeworkL4.runtimeconfig.json
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\bin\Debug\netcoreapp2.1\HomeworkL4.runtimeconfig.dev.json
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\bin\Debug\netcoreapp2.1\HomeworkL4.dll
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\bin\Debug\netcoreapp2.1\HomeworkL4.pdb
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.dll
+C:\Users\User\source\repos\HomeworkL4\HomeworkL4\obj\Debug\netcoreapp2.1\HomeworkL4.pdb
