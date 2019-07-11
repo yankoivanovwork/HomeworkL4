@@ -3,9 +3,9 @@ using System.Linq;
 
 namespace HomeworkL4_Zad5
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int.TryParse(Console.ReadLine(), out int n);
             int biggerRowNumber = int.MinValue;
